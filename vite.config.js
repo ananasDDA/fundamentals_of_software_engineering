@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/casegenius-light/",
+  base: "/fundamentals_of_software_engineering/",
 });
