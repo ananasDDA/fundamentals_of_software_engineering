@@ -9,3 +9,4 @@
 **Выполненные задания:**
 * [Практика 1](https://github.com/ananasDDA/fundamentals_of_software_engineering/blob/main/ПРАКТИЧЕСКАЯ%20РАБОТА%20№1.md)
 * [Практика 2](https://github.com/ananasDDA/fundamentals_of_software_engineering/blob/main/ПРАКТИЧЕСКАЯ%20РАБОТА%20№2.md)
+* [Практика 3](https://github.com/ananasDDA/fundamentals_of_software_engineering/blob/main/ПРАКТИЧЕСКАЯ%20РАБОТА%20№3.md)
